@@ -14,5 +14,5 @@ entity covaccine : managed
     daily_vaccinactions : Integer64
         @core.description : 'Daily Vaccinactions';
     Vaccines : String(100)
-        @Core.Description : 'Vaccines ';
+        @Core.Description : 'Vaccines';
 }
